@@ -17,6 +17,9 @@ brew install elastic/tap/elasticsearch-full
 ```
 This installs the most recently released default distribution of Elasticsearch. To install the OSS distribution, specify ```elastic/tap/elasticsearch-oss```.
 
+#### Server will be running at ```localhost:9200```
+
+
 [Elastic Search Getting Started](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html)
 
 [Free Trail](https://www.elastic.co/downloads/)
