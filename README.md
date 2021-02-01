@@ -19,6 +19,7 @@ This installs the most recently released default distribution of Elasticsearch. 
 
 #### Server will be running at ```localhost:9200```
 
+![alt text](https://github.com/abhishek-honey/elastic-search/blob/main/images/elastic_running.png?raw=true)
 
 [Elastic Search Getting Started](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html)
 
